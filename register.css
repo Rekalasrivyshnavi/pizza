@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    border: solid 1px;
+    height: 1px;
+    background-image: url(bg2.jpg);
+    background-repeat: no-repeat;
+    background-size: 1300px ;
+
+}
+form{border: solid 1px ;
+    color: aliceblue;
+    margin-left: 650px;
+    margin-top: 80px;
+    padding: 10px;
+
+}
+label{
+    color: aliceblue;
+    font-size: 20px;
+}
+h1{
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    }
+    input{
+        height: 20px;
+        width: 200px;
+    }
+    button{
+        height: 45px;
+        width: 90px;
+        background-color: red;
+        color: aliceblue;
+        font-size: 20px;
+        font-weight: bold;
+        border-radius: 20px;
+         }
+p{
+    color: aliceblue;
+    font-size: large;
+}
+p a{
+    color: red;
+    font-size: large;
+}
+    
